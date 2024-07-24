@@ -1,0 +1,10 @@
+[submodule "karlrygoluk/themes/hugo-coder"]
+	path = karlrygoluk/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "karlrygoluk/themes/themes/hugo-coder"]
+	path = karlrygoluk/themes/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "karlrygoluk/public"]
+	path = karlrygoluk/public
+	url = https://github.com/ITKarI/karl.rygol.uk
+	branch = main
